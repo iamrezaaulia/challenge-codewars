@@ -1,4 +1,4 @@
-// Day 3/365
+// 3 of Day 1/365
 // 8 kyu
 // https://www.codewars.com/kata/57356c55867b9b7a60000bd7
 

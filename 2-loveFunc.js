@@ -1,4 +1,4 @@
-// Day 2/365
+// 2 Day 1/365
 // 8 kyu
 // https://www.codewars.com/kata/555086d53eac039a2a000083
 
